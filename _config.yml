@@ -1,3 +1,12 @@
+# Configuration flags to customize
+
+# The site Name
+name: Maxim's blog 
+
+# Short bio or description
+description: Maxim's github blog
+
 theme: jekyll-theme-cayman
+
 title: mvmatrosov
-description: Maxim's github blog site
+
