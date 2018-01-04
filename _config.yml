@@ -10,3 +10,5 @@ theme: jekyll-theme-cayman
 
 title: mvmatrosov
 
+# To include the URL of blog post directory control 
+permalink: /blog/:year/:month/:day/:title
